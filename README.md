@@ -1,8 +1,13 @@
-<h1 align="center">next-course-starter</h1> <br>
+<h1 align="center">Introduction to Kotlin</h1> <br>
 
 <p align="center">
-  A NextJS starter to get you started creating educational materials using Markdown
+  This is the companion documentation site for the [Introduction to Kotlin workshop](https://frontendmasters.com/courses/kotlin/). 
 </p>
+
+## See it online
+
+Check https://firtman.github.io/intro-kotlin to see this documentation.
+
 
 ## Get Started
 
