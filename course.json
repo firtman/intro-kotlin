@@ -1,17 +1,17 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Maximiliano Firtman",
+    "company": "firt.dev"
   },
-  "title": "Next.js Course Starter Kit",
+  "title": "Introduction to Kotlin and Android app development",
   "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "frontendMastersLink": "https://frontendmasters.com/courses/",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "firtman",
+    "github": "firtman",
+    "twitter": "firt"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter"
+  "description": "Workshop for Frontend Masters to learn Kotlin and Android app development with Jetpack Compose",
+  "keywords": ["kotlin", "android development", "jetpack compose", "mobile apps"],
+  "productionBaseUrl": "/intro-kotlin"
 }
