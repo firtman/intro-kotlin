@@ -1,4 +1,4 @@
 We will be building CoffeeMasters app
 
-<video src="/intro-android/recording.webm" width="300" controls>
+<video src="/intro-kotlin/recording.webm" width="300" controls>
 
