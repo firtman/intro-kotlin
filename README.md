@@ -1,7 +1,7 @@
 <h1 align="center">Introduction to Kotlin</h1> <br>
 
 <p align="center">
-  This is the companion documentation site for the Introduction to Kotlin workshop (https://frontendmasters.com/courses/kotlin/). 
+  This is the companion documentation site for the Introduction to Kotlin workshop (https://frontendmasters.com/courses/android-kotlin/). 
 </p>
 
 ## See it online
