@@ -11,7 +11,7 @@ This is a course to start with Kotlin, Jetpack Compose, Android Studio and Andro
 
 * You need a computer to install [Android Studio](https://developer.android.com/studio) available for Linux, macOS and Windows. Android Studio has all the tools we will be using during this workshop.
 
-* You also need to download the [workshop's assets](/intro-android/assets.zip).
+* You also need to download the [workshop's assets](/intro-kotlin/assets.zip).
 
 ## Companion websites
 
