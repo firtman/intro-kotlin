@@ -2,7 +2,7 @@
 
 <iframe src="../../slides/index.html" width="100%" height="500"></iframe>
 
-[PDF version](intro-kotlin/slides/slides.pdf)
+[PDF version](/intro-kotlin/slides/slides.pdf)
 
 ## Language guide
 
